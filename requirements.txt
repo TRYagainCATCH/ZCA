@@ -1,0 +1,5 @@
+rich
+androguard
+python-magic
+reportlab
+
