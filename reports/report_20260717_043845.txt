@@ -1,0 +1,41 @@
+========== ZCA REPORT ==========
+APK : /storage/emulated/0/Download/Logo-Maker-v43.63-MOD-OTR-(Getmodsapk.com).apk
+Generated : 2026-07-17 04:38:45.695604
+
+Analysis Completed Successfully.
+
+Modules Executed:
+- APK Information
+- Manifest
+- Certificate
+- Strings
+- URLs
+- Native Libraries
+- Assets
+- DEX
+- Firebase
+- Trackers
+- Secrets
+- Exported Components
+- Permissions
+- Network Security
+- YARA
+- Malware
+- API Keys
+- Crypto
+- Resources
+- Signature Compare
+- Entropy
+- Package Structure
+- Libraries
+- Dangerous Permissions
+- Security Summary
+- SDK Information
+- Components
+- Certificate Details
+- Interesting Strings
+- Java Classes
+- Multi DEX
+- Permission Risk Map
+- Certificate Chain
+- Certificate Verification

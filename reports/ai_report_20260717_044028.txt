@@ -1,0 +1,16 @@
+============================================================
+        ZCA AI ANALYSIS REPORT
+============================================================
+
+Generated : 2026-07-17 04:40:28.425820
+
+Malware Scan       : PASS
+Permissions        : PASS
+Manifest           : PASS
+Strings            : PASS
+Network            : PASS
+Behavior           : PASS
+YARA               : PASS
+Risk Score         : 89/100
+
+Overall Verdict    : LOW RISK

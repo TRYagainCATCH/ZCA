@@ -1,0 +1,23 @@
+============================================================
+          ZCA RUNTIME ANALYSIS REPORT
+============================================================
+
+Generated : 2026-07-17 04:39:43.437797
+
+01. Frida Manager
+02. Memory Scanner
+03. SSL Pinning
+04. Root Detection
+05. Anti Emulator
+06. API Monitor
+07. Filesystem Monitor
+08. Network Monitor
+09. Process Monitor
+10. JavaScript Injector
+11. DEX Dumper
+12. Universal Bypass
+13. Method Tracer
+14. Logcat Monitor
+15. Native Library Calls
+
+Status : Runtime Analysis Completed

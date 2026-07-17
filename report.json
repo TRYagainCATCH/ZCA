@@ -1,0 +1,11 @@
+{
+    "project": "ZCA",
+    "version": "0.1 Alpha",
+    "analysis": {
+        "static": "Completed",
+        "runtime": "Completed",
+        "ai": "Completed"
+    },
+    "risk_score": 89,
+    "verdict": "LOW RISK"
+}
