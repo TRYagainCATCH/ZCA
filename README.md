@@ -193,6 +193,55 @@ It is designed to help security researchers, reverse engineers, malware analysts
 ⭐ About
 
 ---
+# 📥 Installation
+
+## Termux
+
+```bash
+pkg update && pkg upgrade -y
+
+pkg install git python -y
+
+git clone https://github.com/TRYagainCATCH/ZCA.git
+
+cd ZCA
+
+pip install -r requirements.txt
+
+python zca.py
+```
+
+## Linux
+
+```bash
+git clone https://github.com/TRYagainCATCH/ZCA.git
+
+cd ZCA
+
+pip3 install -r requirements.txt
+
+python3 zca.py
+```
+
+---
+
+# ▶ Usage
+
+```bash
+python zca.py
+```
+
+Then choose:
+
+1️⃣ Static Analyzer
+
+2️⃣ Runtime Analyzer
+
+3️⃣ AI Analyzer
+
+4️⃣ Reports
+
+5️⃣ Settings
 
 # 🛠 Technologies
 
